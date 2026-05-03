@@ -1,9 +1,0 @@
-C:\Users\ASUS\source\repos\ProyectoFiguras2D\ProyectoFiguras2D\bin\Debug\ProyectoFiguras2D.exe.config
-C:\Users\ASUS\source\repos\ProyectoFiguras2D\ProyectoFiguras2D\bin\Debug\ProyectoFiguras2D.exe
-C:\Users\ASUS\source\repos\ProyectoFiguras2D\ProyectoFiguras2D\bin\Debug\ProyectoFiguras2D.pdb
-C:\Users\ASUS\source\repos\ProyectoFiguras2D\ProyectoFiguras2D\obj\Debug\ProyectoFiguras2D.csproj.AssemblyReference.cache
-C:\Users\ASUS\source\repos\ProyectoFiguras2D\ProyectoFiguras2D\obj\Debug\ProyectoFiguras2D.Properties.Resources.resources
-C:\Users\ASUS\source\repos\ProyectoFiguras2D\ProyectoFiguras2D\obj\Debug\ProyectoFiguras2D.csproj.GenerateResource.cache
-C:\Users\ASUS\source\repos\ProyectoFiguras2D\ProyectoFiguras2D\obj\Debug\ProyectoFiguras2D.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\source\repos\ProyectoFiguras2D\ProyectoFiguras2D\obj\Debug\ProyectoFiguras2D.exe
-C:\Users\ASUS\source\repos\ProyectoFiguras2D\ProyectoFiguras2D\obj\Debug\ProyectoFiguras2D.pdb
